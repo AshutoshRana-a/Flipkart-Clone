@@ -12,7 +12,7 @@ If you are opening the site in mobile phone, Please open in Desktop Mode
 
 ## Preview Images:
 
-![preview-img](http://127.0.0.1:5500/Flipkart-Clone/index.html)
+![preview-img][(http://127.0.0.1:5500/Flipkart-Clone/index.html)]
 
 ## Contributing
 
